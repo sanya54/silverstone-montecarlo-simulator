@@ -1,0 +1,23 @@
+driver,team,grid,win_prob_%,podium_prob_%,points_prob_%,avg_sim_finish,avg_stops,actual_finish
+Antonelli,Mercedes,1,72.36,92.25,95.68,2.25,1.09,16
+Leclerc,Ferrari,2,18.06,85.26,95.78,3.06,1.09,1
+Hamilton,Ferrari,3,4.9,56.44,95.36,4.21,1.09,3
+Russell,Mercedes,4,4.0,48.82,95.78,4.28,1.09,2
+Hadjar,Red Bull,5,0.47,9.14,95.4,5.85,1.09,5
+Norris,McLaren,6,0.12,4.0,95.48,6.8,1.09,4
+Verstappen,Red Bull,7,0.08,3.24,95.56,6.9,1.09,DNF
+Gasly,Alpine,15,0.0,0.0,8.23,12.43,1.09,10
+Alonso,Aston Martin,21,0.0,0.0,0.0,20.91,1.09,18
+Perez,Cadillac,20,0.0,0.0,0.0,19.22,1.09,15
+Colapinto,Alpine,19,0.0,0.0,0.0,18.02,1.09,9
+Bottas,Cadillac,18,0.0,0.0,0.0,17.58,1.09,17
+Ocon,Haas,17,0.0,0.0,0.1,15.45,1.09,14
+Albon,Williams,16,0.0,0.0,0.04,15.92,1.09,DNF
+Hulkenberg,Audi,12,0.0,0.0,7.28,12.5,1.09,DNF
+Sainz,Williams,14,0.0,0.0,0.16,15.0,1.09,12
+Bearman,Haas,13,0.0,0.0,0.5,14.16,1.09,13
+Bortoleto,Audi,11,0.0,0.0,86.32,9.95,1.09,8
+Lawson,Racing Bulls,10,0.0,0.0,40.73,11.04,1.09,6
+Lindblad,Racing Bulls,9,0.0,0.03,92.38,9.19,1.09,7
+Piastri,McLaren,8,0.0,0.82,95.2,7.93,1.09,11
+Stroll,Aston Martin,22,0.0,0.0,0.0,20.35,1.09,19
